@@ -1,8 +1,1 @@
-Estamos estudiando python
-vamos a crear un repositorio
-
-Ya iniciamos a tratar de comprender y a conocer este tema
-Anita tiene 41 años y nació en platzi
-
-
-estamos cerca de terminar esto!
+Este es un fork, donde hicimos una copia de un repositorio al cual no tenemos permisos
